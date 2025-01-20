@@ -2,11 +2,11 @@
 
 Created the solution with the help of:
 
-MVVM
-Flow
-Coroutines
-Compose
-Hilt
+MVVM,
+Flow,
+Coroutines,
+Compose,
+Hilt,
 Unit Tests
 
 
