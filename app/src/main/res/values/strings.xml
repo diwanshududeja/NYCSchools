@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhotonApplication</string>
+
+    <string name="network_error">Please check your network connection and try again</string>
+    <string name="complete_school_details">Get Complete School Details. Not done due to time constraint</string>
+
+    <string name="text_show_details">Show Details</string>
+
+
+
+</resources>
